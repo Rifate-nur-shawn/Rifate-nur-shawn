@@ -12,7 +12,7 @@
 ## 💫 About Me
 
 - 🎓 Currently studying **Computer Science & Engineering**
-- 💻 Interested in **Software Development, Web Technologies, and Systems**
+- 💻 Interested in **Software Engineering, Web Technologies, and Systems**
 - 🌱 Actively learning and building projects
 - 🎯 Focused on improving problem-solving and practical skills
 
